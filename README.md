@@ -3,11 +3,12 @@
 * Born and raised in Berlin. Living in Munich since end of 2014.
 * Failed physics and mathematics in high school. Now doing a Ph.D. in experimental quantum information.
 * I love to work when I feel energetic but hate to work (and usually don't work) when I am tired. I regularly do naps after lunch.
+* I believe, we only have one life to live, which means one needs to find out what matters for oneself and enjoy spending time on it.
 
 ### 🤔 Current interests
 
 * Learning modern standard Arabic.
-* Adapting a meditation routine and practicing awareness.
+* Adapting a meditation routine and practicing awareness to become more peace- and joyful in my day-to-day experience.
 * Improving proficiency in embedded development.
 
 ### 🎙 Talks
