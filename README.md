@@ -1,8 +1,14 @@
 ### 👨‍🚀 About me
 
-* Born and raised in Berlin, moved to Munich end of 2014.
+* Born and raised in Berlin. Living in Munich since end of 2014.
+* Failed physics and mathematics in high school. Now doing a Ph.D. in experimental quantum information.
+* I love to work when I feel energetic but hate to work (and usually don't work) when I am tired. I regularly do naps after lunch.
 
-### 🔭 Projects
+### 🤔 Current interests
+
+* Learning modern standard Arabic.
+* Adapting a meditation routine and practicing awareness.
+* Improving proficiency in embedded development.
 
 ### 🎙 Talks
 
@@ -31,7 +37,7 @@
 | 2015 -- 2018 | Physics, Bsc. | LMU | Munich |
 | 2014 -- 2015 | Technology and Management | TUM | Munich |
 
-### 💼 Work Experience
+### 💼 Work experience
 
 | Period | Position | Institution | Place |
 | ------ | ------- | ------------ | ----- |
@@ -47,7 +53,7 @@
 
 | Year | Achievement | Personal note |
 | ---- | ----------- | ---- |
-| 2021 | [Competed at Grappling Industries](https://smoothcomp.com/en/profile/83881) | For someone with an extremely unathletic past and little confidence, this one was a very big overcoming and success. |
+| 2021 | [Competed at Grappling Industries](https://smoothcomp.com/en/profile/83881) | For someone with an extremely unathletic past and little confidence, this one was a very big overcoming and success to me. |
 | 2019 | BCG UnlimITed Digital Strategy Consulting Course | Selected as one of the 60 participants out of a total of 1150 applicants. |
 | 2019 | [ThinkDigital Scholarship 2019](https://thinkdigitalstipendium.de/class-of-2019-start-des-ersten-digitalstipendiums-deutschlands/) | - |
 
