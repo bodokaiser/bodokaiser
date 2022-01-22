@@ -6,6 +6,14 @@
 
 ### 🎙 Talks
 
+* [Theoretical framework for quantum-optical communication](https://github.com/bodokaiser/master-slides/raw/master/main.pdf)
+* [Digital radio transmission](https://www.beautiful.ai/player/-Mu1IiPBgVPyiB_SV7Jk)
+* [How to design an optical detector?](https://www.beautiful.ai/player/-Mu1IbPlBjVeWWukek_f)
+* [Local time-averaged optical potentials](http://slides.bodokaiser.io/slides/optical-potentials)
+* [Driver for digital signal synthesis (DDS)](https://slides.bodokaiser.io/slides/digital-signal-synthesis-array-driver)
+* [Nuclear magnetic resonance (NMR)](https://slides.bodokaiser.io/slides/nuclear-magnetic-resonance)
+* [WebSocket protocol](https://bit.ly/2NpOJ8N)
+
 ### 📜 Publications
 
 | Year | Title | Supervisor |
