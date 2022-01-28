@@ -25,7 +25,7 @@
 
 | Year | Title | Supervisor |
 | ---- | ----- | ----------- |
-| 2021 | A theoretical framwork for quantum-optical communication - towards CV-QKD | Hans Brunner |
+| 2021 | [A theoretical framwork for quantum-optical communication - towards CV-QKD](https://github.com/bodokaiser/master-thesis/raw/master/latex/main.pdf) | Hans Brunner |
 | 2019 | [MRI to CT Translating with GANs](https://scholar.google.com/citations?view_op=view_citation&hl=de&user=B0mwWK8AAAAJ&citation_for_view=B0mwWK8AAAAJ:u5HHmVD_uO8C) | [Shadi Albarqouni](https://albarqouni.github.io) |
 | 2018 | [Local time-averaged optical potentials using acousto-optical deflectors](https://scholar.google.com/citations?view_op=view_citation&hl=de&user=B0mwWK8AAAAJ&citation_for_view=B0mwWK8AAAAJ:u-x6o8ySG0sC) | [Monika Aidelsburger](https://en.wikipedia.org/wiki/Monika_Aidelsburger) |
 
